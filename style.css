@@ -1,0 +1,23 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+.p-img{
+    height: 450px;
+}
+
+.m-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.3);   
+}
+
+#icon-container{
+    height: 115px;
+    background-color: rgba(153, 205, 50, 0.17);
+}
+
+.map{
+    text-decoration: underline;
+}
